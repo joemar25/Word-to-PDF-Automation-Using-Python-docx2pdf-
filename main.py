@@ -24,3 +24,4 @@ if __name__ == "__main__":
     input_folder = "folder/"
     output_folder = "output/"
     word_to_pdf(input_folder, output_folder)
+
